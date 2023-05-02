@@ -1,0 +1,36 @@
+C:\Users\TheShadow\source\repos\Gestión de Cómics\Gestión de Cómics\bin\Debug\net6.0-windows\Gestión de Cómics.exe
+C:\Users\TheShadow\source\repos\Gestión de Cómics\Gestión de Cómics\bin\Debug\net6.0-windows\Gestión de Cómics.deps.json
+C:\Users\TheShadow\source\repos\Gestión de Cómics\Gestión de Cómics\bin\Debug\net6.0-windows\Gestión de Cómics.runtimeconfig.json
+C:\Users\TheShadow\source\repos\Gestión de Cómics\Gestión de Cómics\bin\Debug\net6.0-windows\Gestión de Cómics.dll
+C:\Users\TheShadow\source\repos\Gestión de Cómics\Gestión de Cómics\bin\Debug\net6.0-windows\Gestión de Cómics.pdb
+C:\Users\TheShadow\source\repos\Gestión de Cómics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión de Cómics.csproj.AssemblyReference.cache
+C:\Users\TheShadow\source\repos\Gestión de Cómics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión_de_Cómics.fr_MenuPrincipal.resources
+C:\Users\TheShadow\source\repos\Gestión de Cómics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión_de_Cómics.Properties.Resources.resources
+C:\Users\TheShadow\source\repos\Gestión de Cómics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión de Cómics.csproj.GenerateResource.cache
+C:\Users\TheShadow\source\repos\Gestión de Cómics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión de Cómics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheShadow\source\repos\Gestión de Cómics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión de Cómics.AssemblyInfoInputs.cache
+C:\Users\TheShadow\source\repos\Gestión de Cómics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión de Cómics.AssemblyInfo.cs
+C:\Users\TheShadow\source\repos\Gestión de Cómics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión de Cómics.csproj.CoreCompileInputs.cache
+C:\Users\TheShadow\source\repos\Gestión de Cómics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión de Cómics.dll
+C:\Users\TheShadow\source\repos\Gestión de Cómics\Gestión de Cómics\obj\Debug\net6.0-windows\refint\Gestión de Cómics.dll
+C:\Users\TheShadow\source\repos\Gestión de Cómics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión de Cómics.pdb
+C:\Users\TheShadow\source\repos\Gestión de Cómics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión de Cómics.genruntimeconfig.cache
+C:\Users\TheShadow\source\repos\Gestión de Cómics\Gestión de Cómics\obj\Debug\net6.0-windows\ref\Gestión de Cómics.dll
+C:\Users\TheShadow\Source\Repos\gestion-comics\Gestión de Cómics\bin\Debug\net6.0-windows\Gestión de Cómics.exe
+C:\Users\TheShadow\Source\Repos\gestion-comics\Gestión de Cómics\bin\Debug\net6.0-windows\Gestión de Cómics.deps.json
+C:\Users\TheShadow\Source\Repos\gestion-comics\Gestión de Cómics\bin\Debug\net6.0-windows\Gestión de Cómics.runtimeconfig.json
+C:\Users\TheShadow\Source\Repos\gestion-comics\Gestión de Cómics\bin\Debug\net6.0-windows\Gestión de Cómics.dll
+C:\Users\TheShadow\Source\Repos\gestion-comics\Gestión de Cómics\bin\Debug\net6.0-windows\Gestión de Cómics.pdb
+C:\Users\TheShadow\Source\Repos\gestion-comics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión de Cómics.csproj.AssemblyReference.cache
+C:\Users\TheShadow\Source\Repos\gestion-comics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión_de_Cómics.fr_MenuPrincipal.resources
+C:\Users\TheShadow\Source\Repos\gestion-comics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión_de_Cómics.Properties.Resources.resources
+C:\Users\TheShadow\Source\Repos\gestion-comics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión de Cómics.csproj.GenerateResource.cache
+C:\Users\TheShadow\Source\Repos\gestion-comics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión de Cómics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheShadow\Source\Repos\gestion-comics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión de Cómics.AssemblyInfoInputs.cache
+C:\Users\TheShadow\Source\Repos\gestion-comics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión de Cómics.AssemblyInfo.cs
+C:\Users\TheShadow\Source\Repos\gestion-comics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión de Cómics.csproj.CoreCompileInputs.cache
+C:\Users\TheShadow\Source\Repos\gestion-comics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión de Cómics.dll
+C:\Users\TheShadow\Source\Repos\gestion-comics\Gestión de Cómics\obj\Debug\net6.0-windows\refint\Gestión de Cómics.dll
+C:\Users\TheShadow\Source\Repos\gestion-comics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión de Cómics.pdb
+C:\Users\TheShadow\Source\Repos\gestion-comics\Gestión de Cómics\obj\Debug\net6.0-windows\Gestión de Cómics.genruntimeconfig.cache
+C:\Users\TheShadow\Source\Repos\gestion-comics\Gestión de Cómics\obj\Debug\net6.0-windows\ref\Gestión de Cómics.dll
